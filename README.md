@@ -11,8 +11,7 @@ sebuah program sederhana untuk mengelola data mahasiswa. Berikut adalah desain p
 
 ### Kelas Mahasiswa
 
-Kelas  Mahasiswa  digunakan untuk merepresentasikan objek mahasiswa. Setiap mahasiswa memiliki atribut seperti NIM, nama, jenis kelamin, dan alamat. Kelas ini memiliki constructor untuk inisialisasi objek mahasiswa, getter dan setter untuk mengakses dan mengubah nilai atribut, serta metode  populateList()  untuk mengisi daftar mahasiswa awal.
-
+Kelas  Mahasiswa  digunakan untuk merepresentasikan objek mahasiswa. Setiap mahasiswa memiliki atribut seperti NIM, nama, jenis kelamin, dan alamat. Kelas ini memiliki constructor untuk inisialisasi objek mahasiswa, getter dan setter untuk mengakses dan mengubah nilai atribut, program ini terkoneksi langsung dengan database pada localhost.
 ### Kelas Menu
 
 Kelas  Menu  adalah kelas utama yang menampilkan GUI (Graphical User Interface) dari aplikasi. GUI terdiri dari beberapa elemen seperti text field, combo box, tombol, dan tabel. Pengguna dapat menambahkan, mengubah, dan menghapus data mahasiswa melalui GUI ini. Kelas  Menu  juga mengatur interaksi antara elemen GUI dengan operasi-operasi yang terkait dengan data mahasiswa seperti insert, update, delete, dan clear form.
