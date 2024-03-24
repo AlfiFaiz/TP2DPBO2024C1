@@ -1,6 +1,6 @@
-## janji
+## JANJI
 ### Saya Muhammad Alfi faiz NIM 2207045 mengerjakan
-### soal Latihan 5 dalam mata kuliah Desain Pemograman Berorientasi Objek
+### soal Tugas Praktikum 2 dalam mata kuliah Desain Pemograman Berorientasi Objek
 ### untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Pengelola Data Mahasiswa
